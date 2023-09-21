@@ -1,0 +1,7 @@
+#line 1 "C:\\Users\\Facundo\\Documents\\04 Repositorios\\IOT\\board-esp8862\\.vscode\\arduino.json"
+{
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "sketch": "board-esp8862.ino",
+    "output": "build"
+}
