@@ -1,0 +1,6 @@
+{
+    "sketch": "arduino-esp8862.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
